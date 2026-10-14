@@ -20,3 +20,9 @@ Aplicação web desenvolvida em **Blazor** (.NET) que consome a [Dragon Ball API
 - **Blazor Web App**
 - **HttpClient**
 - **Newtonsoft.Json**
+
+## Informações do Estudante
+
+| Nome | RA | Curso | Campus |
+| --- | --- | --- | --- | 
+| Eduardo Alves e Santos | 124114208 | Engenharia de Software | UniBH - Estoril |
